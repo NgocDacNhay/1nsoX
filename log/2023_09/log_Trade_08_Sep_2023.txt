@@ -1,0 +1,6 @@
+[2023/09/08 01:02:38:491] dac69 đã mua 1 item 799 với giá 0 xu 0 yên 1000 lượng
+[2023/09/08 02:24:20:489] dac69 đã mua 1 item 320 với giá 96000 xu 0 yên 0 lượng
+[2023/09/08 02:24:28:894] dac69 đã mua 15 item 475 với giá 0 xu 0 yên 5250 lượng
+[2023/09/08 02:25:58:030] dac69 đã mua 16 item 475 với giá 0 xu 0 yên 5600 lượng
+[2023/09/08 05:41:38:276] dac69 đã mua 1000 item 16 với giá 0 xu 1000000 yên 0 lượng
+[2023/09/08 07:30:25:260] dac69 đã mua 20000 item 593 với giá 0 xu 0 yên 10000000 lượng

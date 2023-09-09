@@ -1,0 +1,13 @@
+[2023/09/07 07:49:38:014] dac69 đã mua 1 item 776 với giá 0 xu 0 yên 1 lượng
+[2023/09/07 07:50:58:910] dacdz đã mua 1 item 777 với giá 0 xu 0 yên 1 lượng
+[2023/09/07 07:53:02:678] dac69 đã mua 10 item 779 với giá 0 xu 0 yên 10 lượng
+[2023/09/07 07:53:05:259] dac69 đã mua 1 item 777 với giá 0 xu 0 yên 1 lượng
+[2023/09/07 09:24:34:863] dac69 đã mua 20000 item 593 với giá 0 xu 0 yên 10000000 lượng
+[2023/09/07 11:50:47:820] dac69 đã mua 1 item 324 với giá 96000 xu 0 yên 0 lượng
+[2023/09/07 12:00:58:909] dac69 đã mua 1 item 324 với giá 96000 xu 0 yên 0 lượng
+[2023/09/07 12:26:23:943] dac69 đã mua 1 item 193 với giá 64000 xu 0 yên 0 lượng
+[2023/09/07 12:28:09:507] dac69 đã mua 1 item 193 với giá 64000 xu 0 yên 0 lượng
+[2023/09/07 12:32:27:500] dac69 đã mua 1 item 193 với giá 64000 xu 0 yên 0 lượng
+[2023/09/07 01:11:32:003] dac69 đã mua 1 item 193 với giá 64000 xu 0 yên 0 lượng
+[2023/09/07 01:13:47:162] dac69 đã mua 10000 item 593 với giá 0 xu 0 yên 5000000 lượng
+[2023/09/07 01:25:22:093] dac69 đã mua 1 item 324 với giá 96000 xu 0 yên 0 lượng

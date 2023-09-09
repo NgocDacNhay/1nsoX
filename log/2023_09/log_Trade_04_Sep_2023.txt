@@ -1,0 +1,4 @@
+[2023/09/04 11:08:05:655] dacdz đã mua 1 item 796 với giá 0 xu 0 yên 2000 lượng
+[2023/09/04 11:08:07:061] dacdz đã mua 1 item 896 với giá 0 xu 0 yên 2000 lượng
+[2023/09/04 11:08:10:335] dacdz đã mua 1 item 744 với giá 0 xu 0 yên 500 lượng
+[2023/09/04 11:13:52:458] admin đã mua 20000 item 340 với giá 0 xu 0 yên 200000 lượng
